@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_credit_card/credit_card_brand.dart';
 import 'package:flutter_credit_card/flutter_credit_card.dart';
-
 import 'app_colors.dart';
 
-void main() => runApp(MySample());
+void main() => runApp(const MySample());
 
 class MySample extends StatefulWidget {
   const MySample({super.key});
